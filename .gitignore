@@ -3,3 +3,5 @@
 Trainingset.csv
 Validationset.csv
 .ipynb_checkpoints/
+*.csv
+*.xlsx
